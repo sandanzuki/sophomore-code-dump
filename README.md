@@ -1,14 +1,10 @@
 # sophomore-code-dump
 fall '14 / spring '15
 
-All the code included in this repository is coursework. It has been uploaded to serve as portfolio to showcase my coding skill. 
-"An Aggie does not lie, cheat or steal or tolerate those who do."
+    All the code included in this repository is coursework. It has been uploaded to serve as portfolio to showcase my coding skill. 
+    "An Aggie does not lie, cheat or steal or tolerate those who do."
 
-121 -
-
-
-
-221 -
+# 221 -
 
 a1. create a vector class and analyze the runtimes of its functions.
 
