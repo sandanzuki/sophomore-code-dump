@@ -1,6 +1,6 @@
 # sophomore-code-dump
 
-fall '14 / spring '15
+# fall '14 / spring '15
 
     All the code included in this repository is coursework. 
     It has been uploaded to serve as portfolio to showcase my coding skill. 
